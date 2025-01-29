@@ -1,4 +1,33 @@
 "C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\konrad_guest\Documents\Studia\semestr_3\Algorytmy_kombinatoryczne_w_bioinformatyce\zadanie_2 -B C:\Users\konrad_guest\Documents\Studia\semestr_3\Algorytmy_kombinatoryczne_w_bioinformatyce\zadanie_2\cmake-build-debug
--- Configuring done (0.2s)
--- Generating done (0.0s)
--- Build files have been written to: C:/Users/konrad_guest/Documents/Studia/semestr_3/Algorytmy_kombinatoryczne_w_bioinformatyce/zadanie_2/cmake-build-debug
+-- Configuring done (0.3s)
+CMake Error at CMakeLists.txt:15 (add_library):
+  Cannot find source file:
+
+    graph.cpp
+
+
+CMake Error at CMakeLists.txt:21 (add_library):
+  Cannot find source file:
+
+    test_graph.cpp
+
+
+CMake Error at CMakeLists.txt:30 (add_executable):
+  Cannot find source file:
+
+    main.cpp
+
+
+CMake Error at CMakeLists.txt:15 (add_library):
+  No SOURCES given to target: graph_lib
+
+
+CMake Error at CMakeLists.txt:21 (add_library):
+  No SOURCES given to target: test_lib
+
+
+CMake Error at CMakeLists.txt:30 (add_executable):
+  No SOURCES given to target: graph_analyzer
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
