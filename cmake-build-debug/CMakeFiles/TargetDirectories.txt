@@ -1,0 +1,4 @@
+C:/Users/konrad_guest/Documents/Studia/semestr_3/Algorytmy_kombinatoryczne_w_bioinformatyce/zadanie_2/cmake-build-debug/CMakeFiles/graph_lib.dir
+C:/Users/konrad_guest/Documents/Studia/semestr_3/Algorytmy_kombinatoryczne_w_bioinformatyce/zadanie_2/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/konrad_guest/Documents/Studia/semestr_3/Algorytmy_kombinatoryczne_w_bioinformatyce/zadanie_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/konrad_guest/Documents/Studia/semestr_3/Algorytmy_kombinatoryczne_w_bioinformatyce/zadanie_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+# ninja log v6
+1631	1827	7598840799509926	libgraph_lib.a	bd5aeaa212f8a2d6
+21	433	7598840814660843	build.ninja	f2da44ff80eb04df
+18	1103	7598840219527988	CMakeFiles/untitled.dir/main.cpp.obj	804b4dde4d480417
+1827	2079	7598840801474928	untitled.exe	1b762b74ec11647c
+24	1447	7598840537918072	CMakeFiles/graph_lib.dir/graph.cpp.obj	d4f69f1867c5426d
+69	1630	7598840783904728	CMakeFiles/graph_lib.dir/test_graph.cpp.obj	8836b2bedc9faf3d
+28	2195	7598841122272518	CMakeFiles/graph_lib.dir/test_graph.cpp.obj	8836b2bedc9faf3d
+2195	2407	7598841143945125	libgraph_lib.a	bd5aeaa212f8a2d6
+2407	2636	7598841146065865	untitled.exe	1b762b74ec11647c
+37	1020	7598841267866312	CMakeFiles/untitled.dir/main.cpp.obj	804b4dde4d480417
+1020	1189	7598841277706030	untitled.exe	1b762b74ec11647c
+27	1933	7598841958905096	CMakeFiles/graph_lib.dir/test_graph.cpp.obj	8836b2bedc9faf3d
+41	1782	7598842345226191	CMakeFiles/untitled.dir/main.cpp.obj	804b4dde4d480417
+30	2290	7598842345116134	CMakeFiles/graph_lib.dir/graph.cpp.obj	d4f69f1867c5426d
+36	2539	7598842345176187	CMakeFiles/graph_lib.dir/test_graph.cpp.obj	8836b2bedc9faf3d
+2539	2736	7598842370205984	libgraph_lib.a	bd5aeaa212f8a2d6
+2736	2914	7598842372176328	untitled.exe	1b762b74ec11647c
